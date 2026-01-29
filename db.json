@@ -129,33 +129,35 @@
 	{
 	  "uid": "c417ae1a-c190-433f-93bc-95ef41b6e301",
 	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "uid_c": "e0f23a8e-8f37-4bc6-8887-82e2dacacc9f",
 	  "code": "CIR",
 	  "nom": "Cirques"
 	},
 	{
 	  "uid": "da563b5e-51ea-40bb-9f82-f741a6d11257",
 	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "uid_c": "e0f23a8e-8f37-4bc6-8887-82e2dacacc9f",
 	  "code": "PANO",
 	  "nom": "Marché de Noël"
 	},
 	{
 	  "uid": "a978ea30-a25f-47a5-94cc-70553ce933c8",
 	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
-	  "uid_c": "b97c1914-7cd4-4bc3-8cdf-d309efad77c9",
+	  "uid_c": "e831407a-25b0-4c72-8bd0-57ac3706518a",
 	  "code": "FLU",
 	  "nom": "Foire du Lundi"
 	},
 	{
 	  "uid": "7dfbcb86-efa9-41f1-8096-c719cc36b01f",
 	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
-	  "uid_c": "b97c1914-7cd4-4bc3-8cdf-d309efad77c9",
+	  "uid_c": "e831407a-25b0-4c72-8bd0-57ac3706518a",
 	  "code": "MLU",
 	  "nom": "Marché du Lundi"
 	},
 	{
 	  "uid": "4bf30be9-46eb-40a2-b432-52ee64d0e75e",
 	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
-	  "uid_c": "b97c1914-7cd4-4bc3-8cdf-d309efad77c9",
+	  "uid_c": "e831407a-25b0-4c72-8bd0-57ac3706518a",
 	  "code": "MME",
 	  "nom": "Marché du Mercredi"
 	},
