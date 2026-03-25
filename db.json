@@ -40,7 +40,7 @@
      "uid": "2d878122-076e-4263-a6b2-0800bcaf62ac",
       "uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
 	  "uid_cn": "ee8105a9-9afb-4e19-95d2-17ae9a126002",
-	  "uid_ga":"a6854b11-3d66-4ae2-94d5-61c7964b73b4",
+	  "uid_ag":"a6854b11-3d66-4ae2-94d5-61c7964b73b4",
 	  "code":"NDS",
       "nom": "Nocture du Samedi"
     },
@@ -48,7 +48,7 @@
       "uid": "bc657231-9599-442e-9459-486efca174a0",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
 	  "uid_cn": "40d3bf3d-3492-4709-9d96-0a1937fb8a9b",
-	  "uid_ga":"01c54fe3-ce5c-438d-8766-52043050bd01",
+	  "uid_ag":"01c54fe3-ce5c-438d-8766-52043050bd01",
 	  "code":"MDL",
       "nom": "Marché du Lundi"
     },
