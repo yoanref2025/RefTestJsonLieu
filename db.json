@@ -234,41 +234,6 @@
 	  "uid_c": "e831407a-25b0-4c72-8bd0-57ac3706518a",
 	  "code": "MLU",
 	  "nom": "Marché du Lundi"
-	},
-	{
-	  "uid": "4bf30be9-46eb-40a2-b432-52ee64d0e75e",
-	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
-	  "uid_c": "e831407a-25b0-4c72-8bd0-57ac3706518a",
-	  "code": "MME",
-	  "nom": "Marché du Mercredi"
-	},
-	{
-	  "uid": "db25aa21-9784-4995-9861-cdbb7ac33922",
-	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
-	  "uid_c": "b97c1914-7cd4-4bc3-8cdf-d309efad77c9",
-	  "code": "FDI",
-	  "nom": "Foire du Dimanche"
-	},
-	{
-	  "uid": "c20f856b-2769-4193-85ad-a288f97b9305",
-	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
-	  "uid_c": "b97c1914-7cd4-4bc3-8cdf-d309efad77c9",
-	  "code": "LINO",
-	  "nom": "Marché de Noël"
-	},
-	{
-	  "uid": "85d5a2ee-f8bc-4687-ab11-2de13a96a0ce",
-	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
-	  "uid_c": "b97c1914-7cd4-4bc3-8cdf-d309efad77c9",
-	  "code": "MVE",
-	  "nom": "Marché du Vendredi"
-	},
-	{
-	  "uid": "e5c51e2c-1d03-49a7-9239-1bdbc872f786",
-	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
-	  "uid_c": "b97c1914-7cd4-4bc3-8cdf-d309efad77c9",
-	  "code": "MSA",
-	  "nom": "Marché du Samedi"
 	}
   ]
 }
