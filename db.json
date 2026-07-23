@@ -108,7 +108,7 @@
 	  "texte_pieds":"Tous les jeudis",
 	  "avec_periode":true,
 	  "date_debut":"20/07/2026 00:00:00.000000",
-	  "date_fin":"23/07/2026 09:20:59.999999",
+	  "date_fin":"26/07/2026 23:59:59.999999",
 	  "bin_semaine":"0001000",
 	  "bin_mois":"000000100000"
     },
