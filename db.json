@@ -119,14 +119,14 @@
 	  "uid_c": "835329e6-ffd0-4a1d-8e1e-6590bcdb3c08",
 	  "uid_ag":"01c54fe3-ce5c-438d-8766-52043050bd01",
 	  "code":"MVE",
-      "nom": "Marché du Vendredi",
+      "nom": "Marché du Mardi et Vendredi",
 	  "texte_entete":"Ouvert de 7h00 à 14h00",
 	  "texte_observation":"Gardez votre emplacement propre",
 	  "texte_pieds":"Tous les vendredis",
 	  "avec_periode":true,
 	  "date_debut":"20/07/2026 00:00:00.000000",
-	  "date_fin":"26/07/2026 23:59:59.999999",
-	  "bin_semaine":"0000100",
+	  "date_fin":"31/07/2026 23:59:59.999999",
+	  "bin_semaine":"0100100",
 	  "bin_mois":"000000100000"
     },
     {
