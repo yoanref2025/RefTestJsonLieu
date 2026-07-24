@@ -125,9 +125,9 @@
 	  "texte_pieds":"Tous les vendredis",
 	  "avec_periode":true,
 	  "date_debut":"20/07/2026 00:00:00.000000",
-	  "date_fin":"31/07/2026 23:59:59.999999",
+	  "date_fin":"28/08/2026 23:59:59.999999",
 	  "bin_semaine":"0100100",
-	  "bin_mois":"000000100000"
+	  "bin_mois":"000000110000"
     },
     {
     "uid": "bf99d611-c2bc-466f-86d4-d775c9eb4670",
